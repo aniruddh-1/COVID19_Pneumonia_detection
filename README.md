@@ -4,10 +4,10 @@ Detects Covid-19 Pneumonia signs from CT Scan Images by a CNN Model. The model h
 Here are some CT-Scans of lungs:
 
 COVID19 Patient Scan:
-![alt text](https://github.com/aniruddh-1/covid19-detection/covid19_dataset/covid19/168.png "CT Scan1")
+![alt text](https://github.com/aniruddh-1/covid19-detection/covid19_dataset/covid19/168 .png "CT Scan1")
 
 Normal Patient Scan:
-![alt text](https://github.com/aniruddh-1/covid19-detection/covid19_dataset/normal/80.png "CT Scan2")
+![alt text](https://github.com/aniruddh-1/covid19-detection/covid19_dataset/normal/80 .png "CT Scan2")
 
 The dataset was taken from the following source : https://github.com/UCSD-AI4H/COVID-CT/tree/master/Images-processed
 
