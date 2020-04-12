@@ -1,4 +1,4 @@
-# covid19_detection
+# COVID19_Pneumonia_detection
 Detects Covid-19 Pneumonia signs from CT Scan Images by a CNN Model. The model have a uniform dataset of 764 Images of CT Scan which consist 349 Images of Covid-19 Pneumonia affected patients and remaining shows normal patient scans.
 
 Here are some CT-Scans of lungs:
