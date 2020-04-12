@@ -21,3 +21,5 @@ I have also uploaded 2 trained models on above graphs:
 * Model 2: Validation Accuracy - 78.00%, Validation Loss - 47.28%
 
 As the dataset of CT Scans of COVID19 patients is limited, the model seems to overfit, so you can also contribute by sharing any ideas or providing more dataset for this repository by sending the information on my email.
+
+As the dataset of CT Scans of COVID19 patients is limited, the model seems to overfit, so you can also contribute by sharing any ideas or providing more dataset for this repository by sending the information on my [email](https://github.com/aniruddh-1).
