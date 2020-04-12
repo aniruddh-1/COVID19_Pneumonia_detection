@@ -16,7 +16,7 @@ Normal Patient Scan:
 
 ![alt text](https://github.com/aniruddh-1/COVID19_Pneumonia_detection/blob/master/ct_scan_dataset/normal/80%20.png "CT Scan2")
 
-The dataset was taken from the following [source](https://github.com/aniruddh-1/COVID19_Pneumonia_detection/blob/master/Images-processed)
+The dataset was taken from the following [source](https://github.com/UCSD-AI4H/COVID-CT/tree/master/Images-processed)
 
 You can also download the dataset directly from above link or can go through my dataset where I have indexed all the images and converted them into same format(PNG).
 I have used tensorflow library for training a binary classification model of CT Scans using Convolutional Neural Network. The graph of model is as follows:
