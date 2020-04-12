@@ -20,6 +20,7 @@ The dataset was taken from the following [source](https://github.com/aniruddh-1/
 
 You can also download the dataset directly from above link or can go through my dataset where I have indexed all the images and converted them into same format(PNG).
 I have used tensorflow library for training a binary classification model of CT Scans using Convolutional Neural Network. The graph of model is as follows:
+
 ![alt text](https://github.com/aniruddh-1/COVID19_Pneumonia_detection/blob/master/tensorboard_logs/cnn_architecture.png "CNN")
 
 I have also uploaded 2 trained models on above graphs:
